@@ -1,0 +1,7 @@
+<svg viewBox="0 0 300 300">
+  <g>
+    <polygon fill=#9900ff points="136.9,180.1 133.3,173.8 115.1,142.3 151.5,142.3 187.8,142.3 169.6,173.8 166,180.1 188.2,180.1 242.9,150.2 183.8,117.8 151.5,58.7 119.1,117.8 60,150.2 114.7,180.1"/>
+    <polygon fill=#9900ff points="139.9,220.4 151.5,241.6 163.1,220.4"/>
+  </g>
+  <text x="40" y="215" class="heavy" font-size=40px fill=white font-family="arial">Jester's Fleet</text>
+</svg>
